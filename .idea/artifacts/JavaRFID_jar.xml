@@ -3,6 +3,7 @@
     <output-path>$PROJECT_DIR$</output-path>
     <root id="archive" name="JavaRFID.jar">
       <element id="module-output" name="JavaRFID" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.45-bin.jar" path-in-jar="/" />
       <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.45-bin.jar" />
     </root>
   </artifact>
