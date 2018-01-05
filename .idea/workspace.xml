@@ -6,7 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f13a2fc-690d-47d9-91be-0f093ebf30e9" name="Default" comment="Debugging Database connection">
+    <list default="true" id="8f13a2fc-690d-47d9-91be-0f093ebf30e9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/JavaRFID.jar" afterPath="$PROJECT_DIR$/JavaRFID.jar" />
       <change beforePath="$PROJECT_DIR$/src/Database.java" afterPath="$PROJECT_DIR$/src/Database.java" />
@@ -24,12 +24,12 @@
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+            <state relative-caret-position="291">
+              <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
-                <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
+                <marker date="1515179328220" expanded="true" signature="1399:1418" ph="SELECT * FRO... hours" />
+                <marker date="1515179328220" expanded="true" signature="7880:7899" ph="SELECT * FRO... hours" />
               </folding>
             </state>
           </provider>
@@ -132,22 +132,6 @@
             <path>
               <item name="JavaRFID" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaRFID" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRFID" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRFID" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRFID" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRFID" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaRFID" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaRFID" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-              <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaRFID" type="b2602c69:ProjectViewProjectNode" />
@@ -287,7 +271,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515175177820</updated>
       <workItem from="1515175181712" duration="481000" />
-      <workItem from="1515175875424" duration="3038000" />
+      <workItem from="1515175875424" duration="3131000" />
     </task>
     <task id="LOCAL-00001" summary="Updated naming to match git repo">
       <created>1515176080897</created>
@@ -331,11 +315,18 @@
       <option name="project" value="LOCAL" />
       <updated>1515178762866</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Debugging Database connection">
+      <created>1515179263211</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1515179263211</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3519000" />
+    <option name="totallyTimeSpent" value="3612000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
@@ -393,8 +384,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
-            <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
+            <marker date="1515179328220" expanded="true" signature="1399:1418" ph="SELECT * FRO... hours" />
+            <marker date="1515179328220" expanded="true" signature="7880:7899" ph="SELECT * FRO... hours" />
           </folding>
         </state>
       </provider>
@@ -457,12 +448,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
+        <state relative-caret-position="291">
+          <caret line="22" column="64" lean-forward="false" selection-start-line="22" selection-start-column="64" selection-end-line="22" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
-            <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
+            <marker date="1515179328220" expanded="true" signature="1399:1418" ph="SELECT * FRO... hours" />
+            <marker date="1515179328220" expanded="true" signature="7880:7899" ph="SELECT * FRO... hours" />
           </folding>
         </state>
       </provider>
