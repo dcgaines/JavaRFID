@@ -24,12 +24,12 @@
       <file leaf-file-name="Database.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Database.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="44" column="38" lean-forward="false" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+            <state relative-caret-position="327">
+              <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <marker date="1515178623071" expanded="true" signature="1408:1427" ph="SELECT * FRO... hours" />
-                <marker date="1515178623071" expanded="true" signature="7889:7908" ph="SELECT * FRO... hours" />
+                <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
+                <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
               </folding>
             </state>
           </provider>
@@ -287,7 +287,7 @@
       <option name="presentableId" value="Default" />
       <updated>1515175177820</updated>
       <workItem from="1515175181712" duration="481000" />
-      <workItem from="1515175875424" duration="2539000" />
+      <workItem from="1515175875424" duration="3038000" />
     </task>
     <task id="LOCAL-00001" summary="Updated naming to match git repo">
       <created>1515176080897</created>
@@ -324,15 +324,21 @@
       <option name="project" value="LOCAL" />
       <updated>1515178387437</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Debugging Database connection">
+      <created>1515178762866</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1515178762866</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3020000" />
+    <option name="totallyTimeSpent" value="3519000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="840" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -347,7 +353,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -387,8 +393,8 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1515178623071" expanded="true" signature="1408:1427" ph="SELECT * FRO... hours" />
-            <marker date="1515178623071" expanded="true" signature="7889:7908" ph="SELECT * FRO... hours" />
+            <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
+            <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
           </folding>
         </state>
       </provider>
@@ -451,12 +457,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Database.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="44" column="38" lean-forward="false" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="38" />
+        <state relative-caret-position="327">
+          <caret line="24" column="70" lean-forward="false" selection-start-line="24" selection-start-column="70" selection-end-line="24" selection-end-column="70" />
           <folding>
             <element signature="imports" expanded="true" />
-            <marker date="1515178623071" expanded="true" signature="1408:1427" ph="SELECT * FRO... hours" />
-            <marker date="1515178623071" expanded="true" signature="7889:7908" ph="SELECT * FRO... hours" />
+            <marker date="1515179225773" expanded="true" signature="1394:1413" ph="SELECT * FRO... hours" />
+            <marker date="1515179225773" expanded="true" signature="7875:7894" ph="SELECT * FRO... hours" />
           </folding>
         </state>
       </provider>

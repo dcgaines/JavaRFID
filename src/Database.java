@@ -20,7 +20,7 @@ public class Database {
         Connection connection = null;
         try {
             connection = DriverManager
-                    .getConnection( "jdbc:mysql://localhost/HOURS?" + "user=root&password=chickens" );
+                    .getConnection( "jdbc:mysql://localhost/HOURS","root", "chickens" );
         } catch ( SQLException ex ) {
             System.out.println( "SQLException: " + ex.getMessage( ) );
             System.out.println( "SQLState: " + ex.getSQLState( ) );
