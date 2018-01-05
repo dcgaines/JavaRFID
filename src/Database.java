@@ -22,6 +22,7 @@ public class Database {
             connection = DriverManager
                     .getConnection( "jdbc:mysql://localhost:3306/HOURS","root", "chickens" );
         } catch ( SQLException ex ) {
+            ex.printStackTrace();
             System.out.println( "SQLException: " + ex.getMessage( ) );
             System.out.println( "SQLState: " + ex.getSQLState( ) );
             System.out.println( "VendorError: " + ex.getErrorCode( ) );
